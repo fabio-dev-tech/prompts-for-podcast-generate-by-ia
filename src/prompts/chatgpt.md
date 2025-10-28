@@ -1,10 +1,32 @@
-## 🧠 Prompts
+## 🧠 Prompts 
 
 
-ChatGPT：
+# ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+### Nome do podcast
+
+* Título: **Ponto e Vírgula**
+
+* Subtítulo: **Ideias que Transformam Conhecimento em Resultados**
+
+
+
+Você é um roteirista de podcast, e vamos criar um podcast com orientações para usuários de software de gestão de escolas, focado nas áreas administrativas (direção, coordenação, secretaria e financeiro), o objetivo do podcast é gerar informações relevantes para que os usuários saibam o quão importante é o trabalho de alimentar corretamente o software e acompanhar os resultados gerados pelo software para garantir excelência nos resultados gerados ou seja garantir que o resultado gerado pelo software é o esperado
+
+Quero sua ajuda para criar nomes criativos para este podcast, me dê 5 sugestões de nomes
+
+{REGRAS}
+
+- Crie um nome e um subtítulo
+- O nome deve remeter à conhecimento
+- Use trocadilhos com temas de disciplinas comuns das escolas, como algo em Língua Portuguesa, Geografia ou História
+- O nome deve ser amigável
+
+{REGRAS NEGATIVAS}
+
+- Não use temas relacionados à Química, nem Matemática
+- Não use as seguintes palavras no título e subtítulo: Descobrindo, Aprendendo, Dominando
+- Não vincule o nome à partes da gestão da escola
+
+---
 
